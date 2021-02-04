@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-04T11:35:24.917+00:00
+  initializedAtString: 2021-02-04T11:35:24.917+00:00
+  log:
+  - commitID: d895002de0e86bd2f23315ba6906f85556680c5b
+    mergeA: 
+    mergeB: 
+    authorName: AaronDhanoa
+    authorEmail: 55580337+AaronDhanoa@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-04T11:08:56.000+00:00
+    commitTimeString: 2021-02-04T11:08:56.000+00:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Aaron\Documents\GitHub\FaceMaskCollab\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
